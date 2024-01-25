@@ -30,7 +30,7 @@
   
      <center> 
        <a href='https://discord.gg/[VAR8sutF](https://discord.gg/hoff)'> 
-         <img src="https://discord.c99.nl/widget/theme-1/817435791079768105.png" style='padding: 5px'> 
+         <img src="https://discord.c99.nl/widget/theme-2/962486865800355920.png" style='padding: 5px'> 
        </a> 
 
 
