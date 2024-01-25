@@ -25,7 +25,7 @@
   <img width="12" />
   
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"  />
-  <img  width="10" height="10"/>
+  <img  width="10" height="10" />
 </div>
 
 ### Stats
