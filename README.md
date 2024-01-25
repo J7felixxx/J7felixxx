@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=J7felixxx&label=Profile%20views&color=0e75b6&style=flat" alt="J7felixxx" /> </p>
 
-- 💡 Languages and Tools:
+- **💡 Languages and Tools:**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
